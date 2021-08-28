@@ -5,7 +5,13 @@
 - 🌱 I’m currently learning Python, HTML, CSS, JAVASCRIPT, SQL
 - 💞️ I’m Gonna make my dirty github profile look much cleaner filled with repositories
 - 📫 How to reach me ...
-https://www.linkedin.com/in/varun-s-a27ab51ba
+
+
+  <a href="https://www.linkedin.com/in/varun-s-a27ab51ba"> <h1>LinkedIn<h1><a>
+  
+  <a href="https://drive.google.com/file/d/16CuBvidHWOvNs-eAMv10BbSTFJc10N0n/view?usp=sharing"> <h1>Download my Resume here<h1><a>
+  
+ 
 
 <!---
 Varun-Sam/short bio
