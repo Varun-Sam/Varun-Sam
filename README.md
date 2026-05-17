@@ -1,18 +1,66 @@
-- 👋 Hi, I’m Varun 
-- ***Its been a year and learning Python is the best thing in my life. I never liked coding but now i'm interested in learning new languagues one by one and wanna achieve in life***
+# 👋 Hey, I'm Varun
 
-- 👀 Open to learning
-- 🌱 I’m currently learning Python, HTML, CSS, JAVASCRIPT, SQL
-- 💞️ I’m Gonna make my dirty github profile look much cleaner filled with repositories
-- 📫 How to reach me ...
+🚀 Senior Software Engineer | AWS Certified | Python Enthusiast 
+
+Passionate about building scalable cloud and data solutions with hands-on experience in AWS, Python, SQL, and data engineering workflows. Experienced in developing ETL pipelines, cloud automation, API integrations, and performance optimization solutions.
+
+## 💻 Tech Stack
+
+* Python
+* SQL
+* AWS Cloud
+* PySpark
+* Power BI
+* JavaScript
+* HTML & CSS
+* REST APIs
+* Git & GitHub
+
+## ☁️ AWS Services
+
+Experienced in working with:
+
+* AWS Glue
+* AWS Lambda
+* Amazon EC2
+* Amazon ECS
+* Amazon S3
+* Amazon Redshift
+* Amazon DynamoDB
+* AWS Database Migration Service (DMS)
+* Amazon API Gateway
+* Amazon CloudWatch
+* Amazon EventBridge
+* Amazon SNS
+* Amazon SQS
+* AWS Identity and Access Management (IAM)
+* AWS IoT Core
+* AWS IoT Device Shadow
+* AWS IoT Jobs
+* Amazon VPC
+* Elastic Load Balancing (ELB)
+* AWS CloudFormation
+* AWS CodePipeline
+* AWS CodeCommit
+* Amazon Elastic Container Registry (ECR)
+* AWS Serverless Application Model (SAM)
+* AWS Glue Data Catalog
+* Amazon Athena
+* AWS CloudTrail
+* AWS Backup
+* AWS Site-to-Site VPN
+* Amazon Lex
 
 
-  <a href="https://www.linkedin.com/in/varun-s-a27ab51ba"> <h1>LinkedIn<h1><a>
+## 🏆 Certifications
+
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Cloud Practitioner
+
   
-  <a href="https://drive.google.com/file/d/16CuBvidHWOvNs-eAMv10BbSTFJc10N0n/view?usp=sharing"> <h1>Download my Resume here<h1><a>
-  
- 
+## 🔗 Connect With Me
 
-<!---
-Varun-Sam/short bio
---->
+* LinkedIn: [www.linkedin.com/in/varun-s-a27ab51ba](http://www.linkedin.com/in/varun-s-a27ab51ba)
+* Resume: https://drive.google.com/file/d/1GxHCyacEfmGXPOJ-R3ahoWTTkig7fBSM/view?usp=sharing
+
+
