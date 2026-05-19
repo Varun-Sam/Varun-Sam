@@ -54,9 +54,25 @@ Experienced in working with:
 
 ## 🏆 Certifications
 
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Cloud Practitioner
+<table>
+<tr>
+<td align="center">
+<a href="https://www.credly.com/badges/31ba276d-b805-4adc-8b93-948f84cb362e">
+<img src="https://github.com/user-attachments/assets/dddc5709-377e-4c0a-a7cd-a56ab377d7f4" width="180" alt="AWS Certified Solutions Architect Associate"/>
+</a>
+<br/>
+<b>AWS Certified Solutions Architect – Associate</b>
+</td>
 
+<td align="center">
+<a href="https://www.credly.com/badges/3100b032-f6f5-466d-957d-c2ba5f83b116">
+<img src="https://github.com/user-attachments/assets/8ea38daf-ce47-43af-8acd-1d627f190b1e" width="180" alt="AWS Certified Cloud Practitioner"/>
+</a>
+<br/>
+<b>AWS Certified Cloud Practitioner</b>
+</td>
+</tr>
+</table>
   
 ## 🔗 Connect With Me
 
